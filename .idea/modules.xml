@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../BD_tools/.idea/BD_tools.iml" filepath="$PROJECT_DIR$/../BD_tools/.idea/BD_tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSnCC.iml" filepath="$PROJECT_DIR$/.idea/DSnCC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DA_method/.idea/Lab_works.iml" filepath="$PROJECT_DIR$/../DA_method/.idea/Lab_works.iml" />
+    </modules>
+  </component>
+</project>
